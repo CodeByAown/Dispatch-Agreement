@@ -26,3 +26,4 @@ class DispatchAgreement extends Model
         'effective_date' => 'date',
     ];
 }
+
